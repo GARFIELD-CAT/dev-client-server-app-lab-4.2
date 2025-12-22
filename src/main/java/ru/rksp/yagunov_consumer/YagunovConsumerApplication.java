@@ -8,6 +8,7 @@ public class YagunovConsumerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(YagunovConsumerApplication.class, args);
+        System.out.println("Ok");
 	}
 
 }
